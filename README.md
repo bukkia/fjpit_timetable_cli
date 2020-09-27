@@ -1,0 +1,1 @@
+# fjpit_timetable_cli
